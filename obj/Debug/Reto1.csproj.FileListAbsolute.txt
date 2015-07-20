@@ -1,0 +1,6 @@
+c:\users\andrés\documents\visual studio 2012\Projects\Reto1\Reto1\bin\Debug\Reto1.exe.config
+c:\users\andrés\documents\visual studio 2012\Projects\Reto1\Reto1\bin\Debug\Reto1.exe
+c:\users\andrés\documents\visual studio 2012\Projects\Reto1\Reto1\bin\Debug\Reto1.pdb
+c:\users\andrés\documents\visual studio 2012\Projects\Reto1\Reto1\obj\Debug\Reto1.csprojResolveAssemblyReference.cache
+c:\users\andrés\documents\visual studio 2012\Projects\Reto1\Reto1\obj\Debug\Reto1.exe
+c:\users\andrés\documents\visual studio 2012\Projects\Reto1\Reto1\obj\Debug\Reto1.pdb
